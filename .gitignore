@@ -1,4 +1,7 @@
 # 转换输出目录（由 scripts/convert.sh 生成）
 integrations/
 .claude/
-openspec/.DS_Store
+.codex/
+
+# macOS
+.DS_Store
